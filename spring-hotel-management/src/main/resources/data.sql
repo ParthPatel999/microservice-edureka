@@ -1,0 +1,1 @@
+insert into hotelmanagement values (true, 1, 10, 'reserve');

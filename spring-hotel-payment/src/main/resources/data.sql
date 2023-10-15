@@ -1,0 +1,1 @@
+/*insert into payments values (100, 1, 1, true, 'debit card');*/
